@@ -82,13 +82,13 @@ work:
     company_name: Student Learning Center, SUSTech
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 202-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - Provide academic guidance to students, offering one-on-one sessions to assist over 20 students in navigating their academic paths.
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      **I have offered one-on-one sessions to assist over 20 students in navigating their academic paths!**
+      **Responsibilities include:**
+      - Help students set realistic academic goals, choose suitable courses, and develop effective study strategies to improve their performance.
+      - Actively listen to students' concerns and provide personalized advice to address individual academic challenges, fostering their academic growth and confidence.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
