@@ -1,6 +1,6 @@
 ---
 title: Research
-summary: My courses
+summary: My Research
 type: landing
 
 cascade:
