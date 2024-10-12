@@ -53,9 +53,9 @@ profiles:
     url: https://github.com/CatherineYellow
 
 interests:
+  - Data Science
+  - Statistical Learning
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   - area: BSc in Data Science and Big Data Technology
@@ -65,21 +65,18 @@ education:
     summary: |
       GPA: 3.93/4.0 (Ranking: 1/53)
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Relevant Courses:
+      - Challenging Mathematics Courses: Mathematical Analysis(91), Advanced Linear Algebra(93)
+      - Statistics Courses: Probability Theory(99), Mathematical Statistics(100), Statistical Linear Models(99), Multivariate Statistical Analysis(98), Operational Research and Optimization(94)
+      - Programming Courses: Advanced natural language processing(94), Big Data Analysis Software and Application(Hadoop or Spark)(96)
   - area: Exchange Program in Data Science and Artificial Intelligence
     institution: Nanyang Technological University (NTU)
     date_start: 2024-08-01
     date_end: 2024-12-04
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Relevant Courses:
+      - Computational Economics (Game Theory)
+      - Neural Networks and Deep Learning
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
