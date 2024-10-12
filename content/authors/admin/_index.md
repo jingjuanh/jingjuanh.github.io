@@ -86,18 +86,17 @@ work:
     date_end: ''
     summary: |
       **I have offered one-on-one sessions to assist over 20 students in navigating their academic paths!**
-      **Responsibilities include:**
       - Help students set realistic academic goals, choose suitable courses, and develop effective study strategies to improve their performance.
       - Actively listen to students' concerns and provide personalized advice to address individual academic challenges, fostering their academic growth and confidence.
   - position: Member of External Relations Department
     company_name: Shuren College Student Union, SUSTech
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-10-01
+    date_end: 2022-06-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
+      - 6
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
