@@ -23,6 +23,8 @@ sections:
       title: Awards
       username: admin
   - block: custom-achievements
+    content:
+      title: Awards
   - block: resume-skills
     content:
       title: Skills & Hobbies
