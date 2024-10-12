@@ -65,10 +65,10 @@ education:
     summary: |
       **1. GPA:** 3.93/4.0 (Ranking: 1/53)
       
-      **2. Relevant Courses**:
-      **- Challenging Mathematics Courses**: Mathematical Analysis (91), Advanced Linear Algebra (93)
-      **- Statistics Courses**: Probability Theory (99), Mathematical Statistics (100), Statistical Linear Models(99), Multivariate Statistical Analysis (98), Operational Research and Optimization (94)
-      **- Programming Courses**: Advanced natural language processing (94), Big Data Analysis Software and Application(Hadoop or Spark) (96)
+      **2. Relevant Courses:**
+      - **Challenging Mathematics Courses**: Mathematical Analysis (91), Advanced Linear Algebra (93)
+      - **Statistics Courses**: Probability Theory (99), Mathematical Statistics (100), Statistical Linear Models(99), Multivariate Statistical Analysis (98), Operational Research and Optimization (94)
+      - **Programming Courses**: Advanced natural language processing (94), Big Data Analysis Software and Application(Hadoop or Spark) (96)
   - area: Exchange Program in Data Science and Artificial Intelligence
     institution: Nanyang Technological University (NTU), Singapore
     date_start: 2024-08-01
