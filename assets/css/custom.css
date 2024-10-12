@@ -26,10 +26,19 @@
     line-height: 1.5em;
 }
 
-.achievements-section h2 {
-    font-size: 2em; /* 调整字体大小 */
-    text-align: center; /* 使标题居中 */
-    font-weight: bold; /* 加粗字体 */
-    margin-bottom: 20px; /* 添加下方间距 */
+/* 主标题样式 */
+.main-title {
+    font-size: 2em; /* 调整为较大的字体 */
+    text-align: center; /* 居中显示 */
+    font-weight: bold; /* 加粗 */
+    margin-bottom: 20px; /* 下方间距 */
   }
+  
+  /* 副标题样式 */
+.sub-title {
+    font-size: 1.5em; /* 调整为较小的字体 */
+    font-weight: bold; /* 加粗 */
+    margin-bottom: 10px; /* 下方间距 */
+  }
+  
   
