@@ -22,12 +22,6 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: custom-sports
-    content:
-      title: Sports Achievements
-      achievements: |
-        • 2023 Rock Climbing Competition - 1st Place
-        • 2023 Rowing Team Event - 1st Place
   - block: resume-skills
     content:
       title: Skills & Hobbies
