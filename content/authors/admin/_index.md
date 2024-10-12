@@ -105,7 +105,7 @@ work:
     date_start: 2021-10-01
     date_end: 2022-06-30
     summary: |
-      **The team achieved a 10000% increase in funding for 2021-2022 fiscal year!**
+      **The team achieved a 10000% increase in funding for the 2021-2022 fiscal year, and I was honored to be recognized as the "Outstanding Officer of the Year" for my contributions to this success!**
       - Engaged in collaborations with multiple external organizations, including China Merchants Bank, New Oriental Education & Technology Group, etc.
       - Assisted in coordinating major school events, such as securing China Merchants Bank as a sponsor for the school’s sports day.
 
