@@ -26,3 +26,10 @@
     line-height: 1.5em;
 }
 
+/* 主标题样式 */
+.achievements-section h2 {
+    font-size: 2em; /* 调整字体大小 */
+    text-align: center; /* 使标题居中 */
+    font-weight: bold; /* 加粗字体 */
+    margin-bottom: 20px; /* 添加下方间距 */
+}
