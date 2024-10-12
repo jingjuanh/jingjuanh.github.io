@@ -85,8 +85,7 @@ work:
     date_start: 2022-01-01
     date_end: ''
     summary: |
-      **I have offered one-on-one sessions to assist over 20 students in navigating their academic paths!**
-      Responsibilities include:
+      **I have offered one-on-one sessions to assist over 20 students in navigating their academic paths! Responsibilities include:**
       - Help students set realistic academic goals, choose suitable courses, and develop effective study strategies to improve their performance.
       - Actively listen to students' concerns and provide personalized advice to address individual academic challenges, fostering their academic growth and confidence.
   - position: Member of External Relations Department
