@@ -59,7 +59,7 @@ interests:
 
 education:
   - area: BSc in Data Science and Big Data Technology
-    institution: Southern University of Science and Technology (SUSTech)
+    institution: Southern University of Science and Technology (SUSTech), China
     date_start: 2021-09-01
     date_end: 2025-06-30
     summary: |
@@ -70,25 +70,23 @@ education:
       - **Statistics Courses**: Probability Theory (99), Mathematical Statistics (100), Statistical Linear Models(99), Multivariate Statistical Analysis (98), Operational Research and Optimization (94)
       - **Programming Courses**: Advanced natural language processing (94), Big Data Analysis Software and Application(Hadoop or Spark) (96)
   - area: Exchange Program in Data Science and Artificial Intelligence
-    institution: Nanyang Technological University (NTU)
+    institution: Nanyang Technological University (NTU), Singapore
     date_start: 2024-08-01
     date_end: 2024-12-04
     summary: |
-      Relevant Courses:
+      **Relevant Courses**:
       - Computational Economics (Game Theory)
       - Neural Networks and Deep Learning
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Academic Advising Mentor
+    company_name: Student Learning Center, SUSTech
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-11-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Provide academic guidance to students, offering one-on-one sessions to assist over 20 students in navigating their academic paths.
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
