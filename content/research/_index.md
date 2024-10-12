@@ -11,7 +11,7 @@ cascade:
 
 sections:
   - block: collection
-    id: Research
+    id: research
     content:
       title: Research
       filters:
