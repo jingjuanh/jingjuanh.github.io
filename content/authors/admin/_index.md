@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jingjuan Huang
+title: 黄景娟
 
 # Name pronunciation (optional)
-# name_pronunciation: Jingjuan Huang
+name_pronunciation: Jingjuan Huang
 
 # Full name (for SEO)
 first_name: Jingjuan
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Science and Big Data Technology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
