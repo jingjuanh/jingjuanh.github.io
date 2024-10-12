@@ -137,11 +137,11 @@ skills:
       - name: Networking(Social!)
         description: ''
         percent: 100
-        icon: fas fa-users
+        icon: cat
       - name: Learning(New knowledge!)
         description: ''
         percent: 80
-        icon: camera
+        icon: book
 
 languages:
   - name: English
