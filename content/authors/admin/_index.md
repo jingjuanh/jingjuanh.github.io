@@ -10,8 +10,8 @@ first_name: Jingjuan
 last_name: Huang
 
 # Status emoji
-# status:
-#   icon: ☕️
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -72,12 +72,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: BSc Data Science and Big Data Technology
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: 2025-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.93/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
