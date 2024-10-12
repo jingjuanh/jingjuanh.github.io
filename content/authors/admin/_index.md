@@ -29,18 +29,33 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# profiles:
+#   - icon: at-symbol
+#     url: 'mailto:huangjj2021@mail.sustech.edu.cn'
+#     label: E-mail Me
+#   - icon: brands/x
+#     url: https://twitter.com/GetResearchDev
+#   - icon: brands/instagram
+#     url: https://www.instagram.com/
+#   - icon: brands/github
+#     url: https://github.com/CatherineYellow
+#   - icon: brands/linkedin
+#     url: https://www.linkedin.com/
+#   - icon: academicons/google-scholar
+#     url: https://scholar.google.com/
+#   - icon: academicons/orcid
+#     url: https://orcid.org/
 profiles:
   - icon: at-symbol
     url: 'mailto:huangjj2021@mail.sustech.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: ""  # 这里将 icon 和 url 设置为空
+    url: ""
+    label: ""
   - icon: brands/github
-    url: https://github.com/CatherineYellow
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: ...
+  - icon: ""  # 继续设置其他不需要的 icon 为空
+    url: ""
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
