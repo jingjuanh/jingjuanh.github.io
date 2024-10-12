@@ -51,10 +51,11 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/CatherineYellow
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   - area: BSc in Data Science and Big Data Technology
