@@ -74,7 +74,9 @@ education:
     date_start: 2024-08-01
     date_end: 2024-12-04
     summary: |
-      **Relevant Courses**:
+      **1. GPA:** Results Pending
+      
+      **2. Relevant Courses**:
       - Computational Economics (Game Theory)
       - Neural Networks and Deep Learning
 work:
