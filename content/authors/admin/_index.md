@@ -49,17 +49,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:huangjj2021@mail.sustech.edu.cn'
     label: E-mail Me
-  - icon: ""  # 这里将 icon 和 url 设置为空
-    url: ""
-    label: ""
   - icon: brands/github
-    url: ...
-  - icon: ""  # 继续设置其他不需要的 icon 为空
-    url: ""
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/CatherineYellow
 
 interests:
   - Artificial Intelligence
