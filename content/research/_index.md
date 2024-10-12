@@ -11,9 +11,9 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: Research
     content:
-      title: Teaching
+      title: Research
       filters:
         folders:
           - research
