@@ -114,15 +114,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, Java
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R, SAS, Matlab
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Hadoop, Spark, Pytorch
         description: ''
         percent: 40
         icon: circle-stack
@@ -130,7 +130,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
         percent: 60
         icon: person-simple-walk
