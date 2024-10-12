@@ -61,24 +61,24 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Data Science and Big Data Technology
+  - area: BSc in Data Science and Big Data Technology
     institution: Southern University of Science and Technology (SUSTech)
     date_start: 2021-09-01
     date_end: 2025-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.93/4.0 (Ranking: 1/53)
       
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Exchange Program in Data Science and Artificial Intelligence
+    institution: Nanyang Technological University (NTU)
+    date_start: 2024-08-01
+    date_end: 2024-12-04
+    summary: |
+      GPA: 3.8/4.0
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
