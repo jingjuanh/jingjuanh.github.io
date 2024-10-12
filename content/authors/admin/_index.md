@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'huangjj2021@mail.sustech.edu.cn'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/CatherineYellow
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
