@@ -1,25 +1,40 @@
-.card {
+/* 设置全局样式 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* 自定义卡片样式 */
+.custom-achievement-card {
     background-color: #ffffff;
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-  
-  .card-header {
-    font-size: 1.5em;
+}
+
+/* 标题样式 */
+.custom-achievement-card h2 {
+    font-size: 1.5rem;
     margin-bottom: 10px;
-    font-weight: bold;
-  }
-  
-  .card-body ul {
-    list-style-type: disc;
-    padding-left: 20px;
-  }
-  
-  .card-body li {
-    font-size: 1.2em;
-    line-height: 1.5em;
-  }
-  
+}
+
+/* 列表项样式 */
+.custom-achievement-card ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.custom-achievement-card ul li {
+    font-size: 1rem;
+    margin-bottom: 8px;
+}
