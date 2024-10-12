@@ -165,7 +165,6 @@ awards:
   #     - 2023 Rock Climbing Competition - 1st Place
   #     - 2023 Rowing Team Event - 1st Place
   - title: Neural Networks and Deep Learning
-    url: uploads/resume.pdf
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
