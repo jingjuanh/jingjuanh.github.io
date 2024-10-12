@@ -130,15 +130,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Running
+      - name: Sports(Running, ball, climbing)
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Networking(Social!)
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: fas fa-users
+      - name: Learning(New knowledge!)
         description: ''
         percent: 80
         icon: camera
