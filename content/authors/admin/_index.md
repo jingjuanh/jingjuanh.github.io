@@ -1,4 +1,4 @@
----
+<!-- ---
 # Display name
 title: 吳健雄
 
@@ -179,7 +179,154 @@ awards:
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+--- -->
+# Display name
+title: 黄景娟
+
+# Name pronunciation (optional)
+name_pronunciation: Jingjuan Huang
+
+# Full name (for SEO)
+first_name: Jingjuan
+last_name: Huang
+
+# Status emoji
+status:
+  icon: 📚
+
+# Is this the primary user of the site?
+superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Role/position/tagline
+role: Undergraduate Student in Data Science
+
+# Organizations/Affiliations to display in Biography block
+organizations:
+  - name: Southern University of Science and Technology (SUSTech)
+    url: https://www.sustech.edu.cn/
+  - name: Nanyang Technological University (NTU)
+    url: https://www.ntu.edu.sg/
+
+# Social network links
+profiles:
+  - icon: at-symbol
+    url: 'mailto:huangjj2021@mail.sustech.edu.cn'
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/huangjingjuan
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
+
+interests:
+  - Artificial Intelligence
+  - Optimization Algorithms
+  - Statistical Learning
+  - Computational Economics
+
+education:
+  - area: Bachelor of Science in Data Science and Big Data Technology
+    institution: Southern University of Science and Technology (SUSTech)
+    date_start: 2021-09-01
+    date_end: 2025-06-30
+    summary: |
+      GPA: 3.93/4.0 (Ranking: 1/53)
+
+      Relevant Courses:
+      - Probability Theory
+      - Mathematical Statistics
+      - Operational Research and Optimization
+      - Artificial Intelligence
+      - Advanced Natural Language Processing
+      - Statistical Learning
+  - area: Exchange Program in Data Science and Artificial Intelligence
+    institution: Nanyang Technological University (NTU)
+    date_start: 2024-08-01
+    date_end: 2024-12-31
+    summary: |
+      Relevant Courses:
+      - Computational Economics (Game Theory)
+      - Neural Networks and Deep Learning
+
+research:
+  - position: Research Assistant
+    company_name: Southern University of Science and Technology
+    date_start: 2023-07-01
+    date_end: 2023-09-30
+    summary: |
+      Research Topic: Study on the Impact of Scientist Migration
+
+      - Developed a dataset with over 200 million records for scientific talent migration.
+      - Analyzed scientific talent mobility across different countries and disciplines using t-tests and log-rank tests.
+  - position: Research Assistant
+    company_name: Southern University of Science and Technology
+    date_start: 2024-02-01
+    date_end: 2024-05-31
+    summary: |
+      Research Topic: Financial Simulation Optimization Algorithms
+
+      - Developed high-dimensional financial market models using Bayesian optimization and neural networks.
+      - Conducted extensive literature reviews on surrogate models and parameter optimization.
+
+projects:
+  - name: Distributed Fine-Tuning and Testing of T5 Model for Question Answering System
+    date: 2024-05-01
+    summary: |
+      - Preprocessed SQuAD v2 dataset for question-context pairs.
+      - Fine-tuned T5 model using Huggingface and Ray frameworks.
+      - Deployed the model as a SparkNLP service and integrated Kafka for message streaming.
+
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 90
+        icon: code-bracket
+      - name: Pytorch
+        description: ''
+        percent: 80
+        icon: chart-bar
+      - name: Java
+        description: ''
+        percent: 75
+        icon: code-bracket
+      - name: SQL
+        description: ''
+        percent: 70
+        icon: circle-stack
+  - name: Hobbies
+    items:
+      - name: Rock Climbing
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: Chess
+        description: ''
+        percent: 80
+        icon: chess
+
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 100
+
+awards:
+  - title: National College Student Mathematics Competition
+    awarder: Guangdong Province
+    date: 2023
+    summary: |
+      2nd Prize in Guangdong Province
+  - title: National College Student Mathematical Modeling Competition
+    awarder: Guangdong Province
+    date: 2022
+    summary: |
+      3rd Prize in Guangdong Province
 
 ## About Me
 
