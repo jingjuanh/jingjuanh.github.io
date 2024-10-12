@@ -25,3 +25,11 @@
     font-size: 1em; /* 调整字体大小，使其更紧凑 */
     line-height: 1.5em;
 }
+
+.achievements-section h2 {
+    font-size: 2em; /* 调整字体大小 */
+    text-align: center; /* 使标题居中 */
+    font-weight: bold; /* 加粗字体 */
+    margin-bottom: 20px; /* 添加下方间距 */
+  }
+  
