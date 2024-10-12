@@ -88,6 +88,14 @@ work:
       **I have offered one-on-one sessions to assist over 20 students in navigating their academic paths! Responsibilities include:**
       - Help students set realistic academic goals, choose suitable courses, and develop effective study strategies to improve their performance.
       - Actively listen to students' concerns and provide personalized advice to address individual academic challenges, fostering their academic growth and confidence.
+  - position: Student Representative
+    company_name: Department of Statistics and Data Science, SUSTech
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-10-01
+    date_end: 2024-06-30
+    summary: |
+      **Participated in activities and conferences to facilitate communication between faculty members and students.**
   - position: Member of External Relations Department
     company_name: Shuren College Student Union, SUSTech
     company_url: ''
@@ -95,10 +103,9 @@ work:
     date_start: 2021-10-01
     date_end: 2022-06-30
     summary: |
-      Responsibilities include:
-      - 6
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      **The team achieved a 10000% increase in funding for 2021-2022 fiscal year!**
+      - Engaged in collaborations with multiple external organizations, including China Merchants Bank, New Oriental Education & Technology Group, etc.
+      - Assisted in coordinating major school events, such as securing China Merchants Bank as a sponsor for the school’s sports day.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
