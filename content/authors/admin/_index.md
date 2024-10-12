@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 黄景娟
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Jingjuan Huang
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Jingjuan
-last_name: Huang
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Science and Big Data Technology
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Southern University of Science and Technology
-    url: https://www.sustech.edu.cn/en/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'huangjj2021@mail.sustech.edu.cn'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/CatherineYellow
+    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -72,12 +72,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Data Science and Big Data Technology
+  - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    date_start: 2021-09-01
-    date_end: 2025-06-30
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.93/4.0
+      GPA: 3.4/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
