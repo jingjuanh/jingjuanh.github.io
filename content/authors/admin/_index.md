@@ -95,7 +95,7 @@ work:
     date_start: 2023-10-01
     date_end: 2024-06-30
     summary: |
-      - **Participated in activities and conferences to facilitate communication between faculty members and students.**
+      **Participated in activities and conferences to facilitate communication between faculty members and students.**
   - position: Member of External Relations Department
     company_name: Shuren College Student Union, SUSTech
     company_url: ''
