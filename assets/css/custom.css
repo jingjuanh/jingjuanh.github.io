@@ -36,7 +36,7 @@
   
   /* 副标题样式 */
 .sub-title {
-    font-size: 0.5em; /* 调整为较小的字体 */
+    font-size: 1.5em; /* 调整为较小的字体 */
     font-weight: bold; /* 加粗 */
     margin-bottom: 10px; /* 下方间距 */
   }
