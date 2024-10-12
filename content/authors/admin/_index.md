@@ -156,14 +156,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Academic Achievements
-    summary: |
-      - 2023 National College Student Mathematics Competition - 2nd Prize in Guangdong Province
-      - 2023 Annual Outstanding Student
-  - title: Sports Achievements
-    summary: |
-      - 2023 Rock Climbing Competition - 1st Place
-      - 2023 Rowing Team Event - 1st Place
+  # - title: Academic Achievements
+  #   summary: |
+  #     - 2023 National College Student Mathematics Competition - 2nd Prize in Guangdong Province
+  #     - 2023 Annual Outstanding Student
+  # - title: Sports Achievements
+  #   summary: |
+  #     - 2023 Rock Climbing Competition - 1st Place
+  #     - 2023 Rowing Team Event - 1st Place
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
