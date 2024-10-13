@@ -1,0 +1,17 @@
+/* 亮色模式样式 */
+.card {
+    background-color: #ffffff; /* 白色背景 */
+    border: 1px solid #ddd;
+    color: #000000; /* 黑色字体 */
+}
+
+.card-body {
+    color: #000000; /* 黑色字体 */
+}
+
+.card-header {
+    font-size: 1.4em;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #000000; /* 黑色标题 */
+}
