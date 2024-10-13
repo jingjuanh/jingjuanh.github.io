@@ -1,34 +1,39 @@
-/* Light mode (默认情况下) */
+/* 默认模式 (亮色) */
 .card {
-    background-color: #ffffff !important;
-    border: 1px solid #ddd !important;
-    color: #000000 !important;
+    background-color: #ffffff; /* 白色背景 */
+    border: 1px solid #ddd; /* 边框颜色 */
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 800px; /* 最大宽度 */
+    margin-left: auto; /* 居中 */
+    margin-right: auto; /* 居中 */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 阴影 */
+    color: #000000; /* 黑色字体 */
 }
 
-/* 深色模式 */
+/* 针对深色模式的调整 */
 @media (prefers-color-scheme: dark) {
     .card {
-        background-color: #000000 !important;
-        border: 1px solid #444 !important;
-        color: #ffffff !important;
+        background-color: #333333; /* 深灰色背景 (接近黑色) */
+        border: 1px solid #555555; /* 深灰色边框 */
+        color: #ffffff; /* 白色字体 */
+        box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1); /* 白色阴影 */
     }
 
     .card-header {
-        color: #ffffff !important;
+        color: #ffffff; /* 白色标题字体 */
     }
 
     .card-body li {
-        color: #ffffff !important;
+        color: #cccccc; /* 灰色列表字体 */
     }
 
+    /* 主标题在深色模式的调整 */
     .achievements-section h2 {
-        color: #ffffff !important;
+        color: #ffffff; /* 白色主标题 */
     }
 }
-
-
-
-
 
 .card-header {
     font-size: 1.4em; /* 略微减小字体大小 */
