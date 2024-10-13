@@ -44,18 +44,3 @@
     background-color: #ffffff; /* 设置为纯白色 */
 }
 
-
-/* 针对深色模式 */
-.dark .card {
-    background-color: #333333 !important; /* 深色模式下背景为黑色 */
-    border: 1px solid #555555 !important; /* 深色模式下的边框为灰色 */
-    color: #ffffff !important; /* 深色模式下字体为白色 */
-}
-
-.dark .card-body {
-    color: #ffffff !important; /* 深色模式下内容字体为白色 */
-}
-
-.dark .card-header {
-    color: #ffffff !important; /* 深色模式下标题字体为白色 */
-}
