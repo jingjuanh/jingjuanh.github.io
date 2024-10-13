@@ -1,18 +1,2 @@
-<script>
-    window.onload = function() {
-      var isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-  
-      // 动态加载适合的样式文件
-      var link = document.createElement('link');
-      link.rel = 'stylesheet';
-      
-      if (isDarkMode) {
-        link.href = '/css/custom-dark.css';  // 深色模式样式文件
-      } else {
-        link.href = '/css/custom-light.css';  // 亮色模式样式文件
-      }
-  
-      document.head.appendChild(link);
-    }
-  </script>
+
   
