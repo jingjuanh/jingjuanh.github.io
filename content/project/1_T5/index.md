@@ -8,6 +8,6 @@ tags:
   - T5 Model
 ---
 
-SQuAD v2 dataset, Fine-tuned T5 model, Huggingface, Ray, SparkNLP, Kafka
+SQuAD v2 dataset, Fine-tuned T5 model, Huggingface, Ray, SparkNLP, Kafka, Distributed Computing
 
 <!--more-->
