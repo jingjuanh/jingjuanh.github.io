@@ -1,6 +1,4 @@
-/* 默认亮色模式 */
 .card {
-    background-color: #ffffff !important;
     border: 1px solid #ddd !important;
     border-radius: 8px;
     padding: 20px;
@@ -9,11 +7,6 @@
     margin-left: auto;
     margin-right: auto;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    color: #000000 !important; /* 默认字体为黑色 */
-}
-
-.card-body {
-    color: #000000 !important; /* 默认字体为黑色 */
 }
 
 .card-header {
@@ -39,5 +32,3 @@
     font-weight: bold; /* 加粗字体 */
     margin-bottom: 20px; /* 添加下方间距 */
 }
-
-
