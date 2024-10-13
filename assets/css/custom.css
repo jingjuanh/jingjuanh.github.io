@@ -1,4 +1,3 @@
-
 /* Light mode (默认情况下) */
 .card {
     background-color: #ffffff;
@@ -10,31 +9,32 @@
     margin-left: auto;
     margin-right: auto;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    color: #000000; /* 默认字体颜色 */
+    color: #000000; /* 默认字体颜色为黑色 */
 }
 
-/* 针对深色模式的调整 */
+/* 深色模式 */
 @media (prefers-color-scheme: dark) {
     .card {
-        background-color: #1e1e1e; /* 设置为深色背景 */
-        border: 1px solid #444; /* 深色边框 */
-        color: #ffffff; /* 白色字体 */
-        box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1); /* 调整阴影颜色 */
+        background-color: #000000; /* 设置为深色背景，框变成黑色 */
+        border: 1px solid #444; /* 边框也设置为黑色或深灰色 */
+        color: #ffffff; /* 设置字体颜色为白色 */
+        box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1); /* 适当调整阴影 */
     }
 
     .card-header {
-        color: #ffffff; /* 白色标题字体 */
+        color: #ffffff; /* 标题字体颜色为白色 */
     }
 
     .card-body li {
-        color: #cccccc; /* 调整列表字体颜色 */
+        color: #ffffff; /* 列表字体颜色为白色 */
     }
 
-    /* 其他需要适配的元素 */
+    /* 主标题 */
     .achievements-section h2 {
-        color: #ffffff; /* 调整主标题颜色 */
+        color: #ffffff; /* 主标题颜色为白色 */
     }
 }
+
 
 
 
