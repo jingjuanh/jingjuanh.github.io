@@ -5,12 +5,12 @@ date: 2024-05-30
 type: docs
 math: false
 tags:
-  - Optimization, Simulation
+  - Optimization
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-I am currently focused on conducting a comprehensive literature review, summarizing multiple research papers and presenting findings to my supervisor. In terms of experimentation, I have completed the initial step of applying Monte Carlo Bayesian optimization to stock midprice modeling. The ongoing work involves integrating neural networks as surrogate models to further enhance the optimization process.
+I am currently focused on conducting a comprehensive literature review, summarizing multiple research papers and presenting findings to my supervisor Prof. Yang. In terms of experimentation, I have completed the initial step of applying Monte Carlo Bayesian optimization to stock midprice modeling. The ongoing work involves integrating neural networks as surrogate models to further enhance the optimization process.
 ## 1. Introduction
 ### (1) Motivation:
 
