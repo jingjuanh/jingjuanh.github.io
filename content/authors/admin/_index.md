@@ -192,4 +192,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m Jingjuan Huang, born and raised in China, currently exploring opportunities to pursue PhD programs to further my academic journey.
+
+My academic interests focus on unlocking the potential of data. With research experience in social science and financial simulation optimization, I have built strong foundations in mathematics, statistics, and programming. Advanced tools like large language models are particularly exciting for their potential to enhance productivity and address real-world challenges.
+
+Outside of academics, socializing and sharing meals with friends are some of my favorite activities. Sports have also been a meaningful part of my life, with awards earned in sprinting, rock climbing, rowing, and table tennis.
