@@ -16,40 +16,6 @@
     color: #000000 !important; /* 默认字体为黑色 */
 }
 
-/* 针对深色模式 */
-@media (prefers-color-scheme: dark) {
-    .card {
-        background-color: #333333 !important; /* 深色模式下背景为黑色 */
-        border: 1px solid #555555 !important; /* 深色模式下的边框为灰色 */
-        color: #ffffff !important; /* 深色模式下字体为白色 */
-    }
-
-    .card-body {
-        color: #ffffff !important; /* 深色模式下内容字体为白色 */
-    }
-
-    .card-header {
-        color: #ffffff !important; /* 深色模式下标题字体为白色 */
-    }
-}
-
-
-.card-header {
-    font-size: 1.4em; /* 略微减小字体大小 */
-    margin-bottom: 10px;
-    font-weight: bold;
-}
-
-.card-body ul {
-    list-style-type: disc;
-    padding-left: 20px;
-}
-
-.card-body li {
-    font-size: 1em; /* 调整字体大小，使其更紧凑 */
-    line-height: 1.5em;
-}
-
 /* 主标题样式 */
 .achievements-section h2 {
     font-size: 2em; /* 调整字体大小 */
@@ -60,4 +26,21 @@
 
 .article-grid .article {
     background-color: #ffffff; /* 设置为纯白色 */
+}
+
+/* 深色模式下的样式 */
+@media (prefers-color-scheme: dark) {
+    .card {
+        background-color: #333333;  /* 深色模式下的卡片背景 */
+        border: 1px solid #555;  /* 边框颜色变暗 */
+        box-shadow: none;  /* 取消阴影效果 */
+    }
+
+    .card-header {
+        color: #ffffff;  /* 深色模式下的标题字体颜色变为白色 */
+    }
+
+    .card-body {
+        color: #f1f1f1;  /* 深色模式下的内容字体颜色变为淡灰色或白色 */
+    }
 }
