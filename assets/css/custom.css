@@ -1,39 +1,31 @@
 /* Light mode (默认情况下) */
 .card {
-    background-color: #ffffff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 20px;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    color: #000000; /* 默认字体颜色为黑色 */
+    background-color: #ffffff !important;
+    border: 1px solid #ddd !important;
+    color: #000000 !important;
 }
 
 /* 深色模式 */
 @media (prefers-color-scheme: dark) {
     .card {
-        background-color: #000000; /* 设置为深色背景，框变成黑色 */
-        border: 1px solid #444; /* 边框也设置为黑色或深灰色 */
-        color: #ffffff; /* 设置字体颜色为白色 */
-        box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1); /* 适当调整阴影 */
+        background-color: #000000 !important;
+        border: 1px solid #444 !important;
+        color: #ffffff !important;
     }
 
     .card-header {
-        color: #ffffff; /* 标题字体颜色为白色 */
+        color: #ffffff !important;
     }
 
     .card-body li {
-        color: #ffffff; /* 列表字体颜色为白色 */
+        color: #ffffff !important;
     }
 
-    /* 主标题 */
     .achievements-section h2 {
-        color: #ffffff; /* 主标题颜色为白色 */
+        color: #ffffff !important;
     }
 }
+
 
 
 
