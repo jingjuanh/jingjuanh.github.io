@@ -1,4 +1,3 @@
-{{ if eq .Title "Awards" }}
-  <!-- 引入自定义 CSS 仅在 Awards 页 -->
+{{ if in .Content "<h2 class=\"main-title\">Awards</h2>" }}
   <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 {{ end }}
