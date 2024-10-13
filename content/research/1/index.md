@@ -5,7 +5,7 @@ date: 2024-05-30
 type: docs
 math: false
 tags:
-  - Optimization
+  - Optimization, Simulation
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
@@ -43,6 +43,14 @@ The dataset for this study is sourced from Ping An Bank, a leading financial ins
 ## 4. Methodology
 
 To initiate this study, a Monte Carlo Approximate Bayesian Computation (ABC) method has been implemented as a preliminary approach. This serves as a baseline for testing the optimization framework. The next step involves implementing a neural network-based optimization method to enhance the system's performance. The goal is to leverage the neural network's ability to handle high-dimensional parameter spaces and create an efficient, automated calibration system.
+
+## Reference
+1. Chen, Yutian. Learning to learn without gradient descent by gradient descent (2016).
+2. Frazier, Peter I. A Tutorial on Bayesian Optimization (2018).
+3. Wang, Ziyu. Bayesian Optimization in a Billion Dimensions via Random Embeddings (2016).
+4. Cranmer, Kyle. The Frontier of Simulation-Based Inference (2020).
+5. Lueckmann, Jan-Matthis. Benchmarking Simulation-Based Inference (2021).
+6. Dai, Zhongxiang. Sample-Then-Optimize Batch Neural Thompson Sampling (2022).
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
