@@ -1,4 +1,4 @@
-/* 默认模式 (亮色) */
+/* 默认亮色模式 */
 .card {
     background-color: #ffffff; /* 白色背景 */
     border: 1px solid #ddd; /* 边框颜色 */
@@ -12,28 +12,37 @@
     color: #000000; /* 黑色字体 */
 }
 
-/* 针对深色模式的调整 */
+/* 针对深色模式的样式 */
 @media (prefers-color-scheme: dark) {
     .card {
-        background-color: #333333; /* 深灰色背景 (接近黑色) */
-        border: 1px solid #555555; /* 深灰色边框 */
-        color: #ffffff; /* 白色字体 */
-        box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1); /* 白色阴影 */
+        background-color: #333333; /* 深色模式下卡片背景为深灰色/黑色 */
+        border: 1px solid #555555; /* 边框颜色也变成深灰色 */
+        color: #ffffff; /* 字体变为白色 */
+        box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1); /* 调整阴影颜色为浅色 */
     }
 
     .card-header {
-        color: #ffffff; /* 白色标题字体 */
+        color: #ffffff; /* 深色模式下的标题字体颜色为白色 */
+    }
+
+    .card-body ul {
+        list-style-type: disc;
+        padding-left: 20px;
+        color: #cccccc; /* 列表项字体颜色为浅灰色 */
     }
 
     .card-body li {
-        color: #cccccc; /* 灰色列表字体 */
+        font-size: 1em;
+        line-height: 1.5em;
+        color: #ffffff; /* 列表项字体颜色为白色 */
     }
 
-    /* 主标题在深色模式的调整 */
+    /* 调整主标题在深色模式下的样式 */
     .achievements-section h2 {
-        color: #ffffff; /* 白色主标题 */
+        color: #ffffff; /* 标题字体为白色 */
     }
 }
+
 
 .card-header {
     font-size: 1.4em; /* 略微减小字体大小 */
