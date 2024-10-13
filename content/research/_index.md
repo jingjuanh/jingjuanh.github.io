@@ -1,4 +1,8 @@
 ---
+title: Research
+summary: My research
+type: landing
+
 cascade:
   - _target:
       kind: page
