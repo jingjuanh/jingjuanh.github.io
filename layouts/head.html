@@ -1,13 +1,16 @@
 <footer>
     <script>
       window.onload = function() {
-        if (document.querySelector('.main-title').innerText === "Awards") {
+        // 检查系统是否处于深色模式
+        var isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+        // 当页面标题为 "Awards" 且处于深色模式时
+        if (document.querySelector('.main-title').innerText === "Awards" && isDarkMode) {
           var link = document.createElement('link');
           link.rel = 'stylesheet';
-          link.href = '/css/custom.css'; // 手动输入路径
+          link.href = '/css/custom.css'; // 确保路径正确
           document.head.appendChild(link);
         }
       }
     </script>
-  </footer>
-  
+</footer>
