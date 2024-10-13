@@ -1,15 +1,18 @@
-<style>
-    /* 针对深色模式的全局样式 */
-    @media (prefers-color-scheme: dark) {
-      .card {
-        background-color: #333 !important; /* 卡片背景为深色 */
-        color: #fff !important; /* 卡片文字为白色 */
-        border: 1px solid #555 !important; /* 边框颜色调整为灰色 */
+<script>
+    window.onload = function() {
+      var isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  
+      // 动态加载适合的样式文件
+      var link = document.createElement('link');
+      link.rel = 'stylesheet';
+      
+      if (isDarkMode) {
+        link.href = '/css/custom-dark.css';  // 深色模式样式文件
+      } else {
+        link.href = '/css/custom-light.css';  // 亮色模式样式文件
       }
   
-      .card-header, .card-body {
-        color: #ffffff !important; /* 卡片内容和标题文字为白色 */
-      }
+      document.head.appendChild(link);
     }
-  </style>
+  </script>
   
