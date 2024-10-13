@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning TinyLLaMA-1b with Clinical Instruction Data with QLoRA Method
 date: 2023-10-26
-external_link: https://github.com/CatherineYellow/Fine-Tuning-TinyLLaMA-1b-with-Clinical-Instruction-Data-with-QLoRA-Method
+external_link: https://github.com/CatherineYellow/FineTuning_TinyLLaMA
 tags:
   - Fine-Tuning
   - NLP
