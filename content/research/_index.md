@@ -1,7 +1,3 @@
----
-title: Research
-summary: My Research
-type: landing
 
 cascade:
   - _target:
