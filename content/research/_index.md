@@ -1,4 +1,4 @@
-
+---
 cascade:
   - _target:
       kind: page
