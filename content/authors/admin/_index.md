@@ -53,9 +53,9 @@ profiles:
     url: https://github.com/CatherineYellow
 
 interests:
-  - Data Science
-  - Statistical Learning
-  - Artificial Intelligence
+  - Analysis
+  - Optimization
+  - Large Language Model
 
 education:
   - area: BSc in Data Science and Big Data Technology
