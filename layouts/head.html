@@ -1,11 +1,13 @@
-<script>
-    window.onload = function() {
-      if (document.querySelector('.main-title').innerText === "Awards") {
-        var link = document.createElement('link');
-        link.rel = 'stylesheet';
-        link.href = '{{ "css/custom.css" | relURL }}';
-        document.head.appendChild(link);
+<footer>
+    <script>
+      window.onload = function() {
+        if (document.querySelector('.main-title').innerText === "Awards") {
+          var link = document.createElement('link');
+          link.rel = 'stylesheet';
+          link.href = '/css/custom.css'; // 手动输入路径
+          document.head.appendChild(link);
+        }
       }
-    }
-  </script>
+    </script>
+  </footer>
   
