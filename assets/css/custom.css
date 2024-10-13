@@ -33,3 +33,7 @@
     font-weight: bold; /* 加粗字体 */
     margin-bottom: 20px; /* 添加下方间距 */
 }
+
+.article-grid .article {
+    background-color: #ffffff; /* 设置为纯白色 */
+}
