@@ -9,7 +9,7 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-
+<!-- 
 I am currently focused on conducting a comprehensive literature review, summarizing multiple research papers and presenting findings to my supervisor Prof. Yang. In terms of experimentation, I have completed the initial step of applying Monte Carlo Bayesian optimization to stock midprice modeling. The ongoing work involves integrating neural networks as surrogate models to further enhance the optimization process.
 ## 1. Introduction
 ### (1) Motivation:
@@ -50,7 +50,7 @@ To initiate this study, a Monte Carlo Approximate Bayesian Computation (ABC) met
 3. Wang, Ziyu. Bayesian Optimization in a Billion Dimensions via Random Embeddings (2016).
 4. Cranmer, Kyle. The Frontier of Simulation-Based Inference (2020).
 5. Lueckmann, Jan-Matthis. Benchmarking Simulation-Based Inference (2021).
-6. Dai, Zhongxiang. Sample-Then-Optimize Batch Neural Thompson Sampling (2022).
+6. Dai, Zhongxiang. Sample-Then-Optimize Batch Neural Thompson Sampling (2022). -->
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
