@@ -36,7 +36,6 @@ header:
     show_theme_chooser: true
     logo:
       text: "Jingjuan Huang"
-      icon: "fas fa-home"
 
 # Site footer
 footer:
