@@ -137,7 +137,7 @@ skills:
       - name: Networking(Social!)
         description: ''
         percent: 100
-        icon: busts_in_silhouette
+        icon: user-group
       - name: Learning(New knowledge!)
         description: ''
         percent: 80
