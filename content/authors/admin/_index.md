@@ -141,7 +141,7 @@ skills:
       - name: Learning(New knowledge!)
         description: ''
         percent: 80
-        icon: user-group
+        icon: camera
 
 languages:
   - name: English
