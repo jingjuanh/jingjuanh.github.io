@@ -137,11 +137,11 @@ skills:
       - name: Networking(Social!)
         description: ''
         percent: 100
-        icon: network-wired
+        icon: busts_in_silhouette
       - name: Learning(New knowledge!)
         description: ''
         percent: 80
-        icon: lightbulb
+        icon: open_book
 
 languages:
   - name: English
