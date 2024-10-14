@@ -141,7 +141,7 @@ skills:
       - name: Learning(New knowledge!)
         description: ''
         percent: 80
-        icon: lightbulb
+        icon: user-group
 
 languages:
   - name: English
