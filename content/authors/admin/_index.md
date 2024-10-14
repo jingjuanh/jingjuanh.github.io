@@ -137,11 +137,11 @@ skills:
       - name: Networking(Social!)
         description: ''
         percent: 100
-        icon: cat
+        icon: network-wired
       - name: Learning(New knowledge!)
         description: ''
         percent: 80
-        icon: camera
+        icon: lightbulb
 
 languages:
   - name: English
