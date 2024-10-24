@@ -1,7 +1,7 @@
 ---
 title: Distributed Fine-Tuning and Testing of T5 Model for Question Answering System
 date: 2024-05-30
-url: static/uploads/dsp.pdf
+url: uploads/dsp.pdf
 tags:
   - Fine-Tuning
   - Distributed Computing
