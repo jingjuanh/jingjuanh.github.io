@@ -19,7 +19,7 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Samples
+  - name: Sample
     url: samples/
     weight: 30
   - name: Research
