@@ -1,7 +1,7 @@
 ---
 title: The Art of Swing: You Are a Slugger?
 date: 2024-05-30
-url: uploads/dsp.pdf
+external_link: uploads/dsp.pdf
 tags:
   - Data Analysis
 ---
