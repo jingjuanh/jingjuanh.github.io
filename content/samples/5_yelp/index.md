@@ -1,7 +1,7 @@
 ---
 title: Yelp Analysis
 date: 2023-01-30
-external_link: uploads/yelp.pdf
+url: uploads/yelp.pdf
 tags:
   - Data Analysis
 ---
