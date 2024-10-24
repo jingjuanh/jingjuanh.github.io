@@ -1,7 +1,7 @@
 ---
 title: Yelp Analysis
 date: 2023-01-30
-external_link: https://github.com/CatherineYellow/Yelp_Analysis
+external_link: uploads/yelp.pdf
 tags:
   - Data Analysis
 ---

@@ -1,13 +1,11 @@
 ---
-title: Distributed Fine-Tuning and Testing of T5 Model for Question Answering System
+title: The Art of Swing: You Are a Slugger?
 date: 2024-05-30
 url: uploads/dsp.pdf
 tags:
-  - Fine-Tuning
-  - Distributed Computing
-  - T5 Model
+  - Data Analysis
 ---
 
-SQuAD v2 dataset, Fine-tuned T5 model, Huggingface, Ray, SparkNLP, Kafka, Distributed Computing
+Baseball Data Analysis
 
 <!--more-->
