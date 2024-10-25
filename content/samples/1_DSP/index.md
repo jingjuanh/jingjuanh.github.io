@@ -1,7 +1,7 @@
 ---
 title: "The Art of Swing: You Are a Slugger?"
 date: 2024-05-30
-url: assets/uploads/dsp.pdf
+external_link: https://raw.githubusercontent.com/jingjuanh/jingjuanh.github.io/main/static/uploads/dsp.pdf
 tags:
   - Data Analysis
 ---
