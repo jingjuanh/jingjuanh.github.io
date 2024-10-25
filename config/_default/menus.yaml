@@ -19,13 +19,13 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Sample
-    url: samples/
-    weight: 30
   - name: Research
     url: research/
     weight: 40
   - name: Projects
     url: projects/
     weight: 50
+  - name: Writing Sample
+    url: samples/
+    weight: 60
   

@@ -1,7 +1,7 @@
 ---
 title: Face Recognition
 date: 2024-05-30
-url: assets/uploads/face_rec.pdf
+external_link: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jingjuanh/jingjuanh.github.io/main/static/uploads/face_rec.pdf
 tags:
   - CV
 ---
