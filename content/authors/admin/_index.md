@@ -55,7 +55,7 @@ profiles:
 interests:
   - Analysis
   - Optimization
-  - Large Language Model
+  - Artificial Intelligence
 
 education:
   - area: BSc in Data Science and Big Data Technology
