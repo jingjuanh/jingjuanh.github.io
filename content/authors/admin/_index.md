@@ -74,7 +74,7 @@ education:
     date_start: 2024-08-01
     date_end: 2024-12-04
     summary: |
-      **1. GPA:** 5.0/5.0
+      **1. GPA: 5.0/5.0**
 
       **2. Relevant Courses:**
       - Computational Economics (Game Theory)
