@@ -24,8 +24,8 @@ role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Southern University of Science and Technology (SUSTech)
-    url: https://www.sustech.edu.cn/en/
+  - name: Ohio State University (OSU)
+    url: https://www.osu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,15 +47,16 @@ organizations:
 #     url: https://orcid.org/
 profiles:
   - icon: at-symbol
-    url: 'mailto:huangjj2021@mail.sustech.edu.cn'
+    url: 'mailto:huang.6330@osu.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/CatherineYellow
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/jingjuan-huang-69890537b/
 
 interests:
-  - Analysis
-  - Optimization
-  - Artificial Intelligence
+  - Multi-objective Reinforcement Learning
+  - Dataless Neural Network
 
 education:
   - area: BSc in Data Science and Big Data Technology
@@ -79,6 +80,11 @@ education:
       **2. Relevant Courses:**
       - Computational Economics (Game Theory)
       - Neural Networks and Deep Learning
+  - area: PhD in Electronic and Computer Engineering
+    institution: Ohio State University (OSU), USA
+    date_start: 2025-08-01
+    date_end: 2030-06-30
+
 work:
   - position: Academic Advising Mentor
     company_name: Student Learning Center, SUSTech
