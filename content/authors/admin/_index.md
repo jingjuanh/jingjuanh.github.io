@@ -85,7 +85,7 @@ education:
     date_start: 2025-08-01
     date_end: 2030-06-30
 
-extracurricular:
+work:
   - position: Academic Advising Mentor
     company_name: Student Learning Center, SUSTech
     company_url: ''
