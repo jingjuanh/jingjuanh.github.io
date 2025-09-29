@@ -85,7 +85,26 @@ education:
     date_start: 2025-08-01
     date_end: 2030-06-30
 
-work:
+internship:
+  - position: AI Data Engineer
+    company_name: xDAN AI
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-02-15
+    date_end: 2025-05-15
+    summary: |
+      **I have offered one-on-one sessions to assist over 20 students in navigating their academic paths!**
+      - LLM Mathematical Reasoning Enhancement: 
+      Curated large-scale math QA datasets (e.g., OpenR1-Math, GeneralThought, Big-Math-RL), performed deduplication, Alpaca/ChatML format normalization, binary-to-open QA conversion, and difficulty scoring using LLMs.
+      - Tool Use Capability Enhancement:
+      Coding: Fine-tuned xDAN-R2-Thinking with ToRA framework for code-assisted math solving; achieved 73.3% accuracy on AIME2024 and 93.2% on Math500.
+      Search: Trained xDAN-L1-3B-Instruct using DeepRetrieval for scholarly search, reached 50.15% publication recall.
+      - Data Synthesis:
+      Sensitive QA: Used Qwen2.5-14B-Instruct-abliterated with Distilabel and evolved-instruction method to expand sensitive questions both complexity and diversity for LLM safety testing.
+      Domain QA: Collected expert-level documents (e.g., phosphate anodizing, Vitamin D deficiency treatment), applied Easy-Dataset for segmentation, and synthesized QA pairs via DeepSeek-Chat/Reasoner.
+
+
+extracurricular activities:
   - position: Academic Advising Mentor
     company_name: Student Learning Center, SUSTech
     company_url: ''
