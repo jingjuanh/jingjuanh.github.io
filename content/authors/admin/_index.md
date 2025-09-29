@@ -215,7 +215,7 @@ awards:
 
 ## About Me
 
-I’m Jingjuan Huang, born and raised in China, currently exploring opportunities to pursue PhD programs to further my academic journey.
+I’m Jingjuan Huang, born and raised in China, currently in my first year of PhD.
 
 My academic interests focus on unlocking the potential of data. With research experience in social science and financial simulation optimization, I have built strong foundations in mathematics, statistics, and programming. Advanced tools like large language models are particularly exciting for their potential to enhance productivity and address real-world challenges.
 
