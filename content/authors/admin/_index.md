@@ -80,10 +80,7 @@ education:
       **2. Relevant Courses:**
       - Computational Economics (Game Theory)
       - Neural Networks and Deep Learning
-  - area: PhD in Electronic and Computer Engineering
-    institution: Ohio State University (OSU), USA
-    date_start: 2025-08-01
-    date_end: 2030-06-30
+
 
 work:
   - position: Academic Advising Mentor
