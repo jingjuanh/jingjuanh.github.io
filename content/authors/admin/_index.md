@@ -87,7 +87,7 @@ education:
     summary: |
       **1. Research Focus:** Multi-objective Reinforcement Learning, Dataless Neural Network
 
-internship:
+work:
   - position: AI Data Engineer
     company_name: xDAN AI
     company_url: ''
@@ -103,9 +103,6 @@ internship:
       - Data Synthesis:
       Sensitive QA: Used Qwen2.5-14B-Instruct-abliterated with Distilabel and evolved-instruction method to expand sensitive questions both complexity and diversity for LLM safety testing.
       Domain QA: Collected expert-level documents (e.g., phosphate anodizing, Vitamin D deficiency treatment), applied Easy-Dataset for segmentation, and synthesized QA pairs via DeepSeek-Chat/Reasoner.
-
-
-extracurricular activity:
   - position: Academic Advising Mentor
     company_name: Student Learning Center, SUSTech
     company_url: ''
