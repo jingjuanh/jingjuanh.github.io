@@ -87,7 +87,7 @@ education:
     summary: |
       **1. Research Focus:** Multi-objective Reinforcement Learning, Dataless Neural Network
 
-work:
+extracurricular activity:
   - position: Academic Advising Mentor
     company_name: Student Learning Center, SUSTech
     company_url: ''
